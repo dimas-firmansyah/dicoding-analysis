@@ -4,3 +4,7 @@ scipy
 matplotlib
 seaborn
 jupyter
+streamlit
+babel
+ruff
+pre-commit
